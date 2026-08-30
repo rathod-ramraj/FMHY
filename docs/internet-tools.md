@@ -31,7 +31,6 @@
 * [⁠Meshtastic](https://meshtastic.org/) - Off-Grid Mesh Network Communication Guide
 * [Arcai](https://arcai.com/) - WiFi Speed Control
 * [SwitchHosts](https://github.com/oldj/SwitchHosts) - Windows Hosts File Editor
-* [MAC Address](https://macaddress.io/) - MAC Address Lookup
 * [PortChecker](https://portchecker.co/), [CanYouSeeMe](https://canyouseeme.org/), [ping.pe](https://ping.pe/), [PortCheckers](https://www.portcheckers.com/) or [RustCat](https://github.com/robiot/rustcat) - Port Checkers
 * [Waveform Test](https://www.waveform.com/tools/bufferbloat) or [LibreQoS Test](https://bufferbloat.libreqos.com/) - Test Bufferbloat / Ping Under Load
 * [PacketSender](https://packetsender.com/) - Packet Sender
@@ -65,7 +64,7 @@
 * ⭐ **[Freedium](https://freedium-mirror.cfd/)**, [ReadMedium](https://readmedium.com/) or [Medium Parser](https://github.com/Xatta-Trone/medium-parser-extension) - Bypass Medium Paywalls
 * ⭐ **[wallabag](https://wallabag.org/)** / [Instances](https://github.com/wallabag/wallabag/wiki/wallabag-ecosystem#list-of-public-instances-open-for-registration) / [Resources](https://github.com/wallabag/wallabag/wiki/wallabag-ecosystem) or [Ladder](https://github.com/everywall/ladder) - Self-Hosted
 * [ByeByePaywall](https://byebyepaywall.com/en/) - Paywall Bypass Tool
-* [⁠RemovePaywalls](https://removepaywalls.com/) - Paywall Bypass Tool
+* [⁠UnWall](https://unwall.app/) - Paywall Bypass Tool
 * [smry.ai](https://smry.ai/) - Paywall Bypass Tool
 * [Scientific Doc Paywall Bypass](https://greasyfork.org/en/scripts/35521) - Bypass Scientific Document Paywalls
 * [Unpaywall](https://unpaywall.org/) - Bypass Scholarly Article Paywalls
@@ -107,7 +106,7 @@
 * ⭐ **[Hack.chat](https://hack.chat/)**, [Shick](https://shick.me/), [LeapChat](https://www.leapchat.org/), [otr.to](https://otr.to/) / [GitHub](https://github.com/jermainee/otr.to), [Chitchatter](https://chitchatter.im/) / [GitHub](https://github.com/jeremyckahn/chitchatter) or [tlk.io](https://tlk.io/) - Minimal / Chats that Work Without Sign-Up / Web
 * ⭐ **[Gajim](https://gajim.org/)** - XMPP Client / Windows, macOS, Linux / [Source Code](https://dev.gajim.org/gajim/gajim)
 * [Pidgin](https://www.pidgin.im/) / [Repo](https://keep.imfreedom.org/pidgin/pidgin/) or [Ferdium](https://ferdium.org/) / [GitHub](https://github.com/ferdium/ferdium-app) - Combine Web Apps / Chat Services / Windows, macOS, Linux
-* [MatterBridge](https://github.com/42wim/matterbridge) - Bridge for Multiple Chat Apps / Windows, Linux
+* [MatterBridge](https://github.com/42wim/matterbridge) or [Bolt](https://williamhorning.dev/bolt/) / [Self-Host](https://williamhorning.dev/lightning/) - Cross-Platform Chatbot Frameworks
 * [⁠Fluxer](https://fluxer.app/) - Communication Platform / Discord Alt / [Servers](https://fluxerservers.com/) / [Bots](https://fluxbase.dev/) / [Servers / Bots](https://fluxerlist.com/) / [Tools / Resources](https://awesome-fluxer.com/), [2](https://github.com/awesome-fluxer/awesome-fluxer/) / Windows, macOS, Linux, Web
 * [Miranda NG](https://www.miranda-ng.org/en/) - Chat App / Windows
 * [WeeChat](https://weechat.org/) - Chat App / macOS, Linux
@@ -143,6 +142,7 @@
 
 * ⭐ **[Mini QR](https://mini-qr-code-generator.vercel.app/)** - Generator / Customizable / [GitHub](https://github.com/lyqht/mini-qr)
 * [⁠Curium](https://curium.design/) - Generator / Customizable / Windows, macOS, Linux, Android / [GitHub](https://github.com/nylxar/curium)
+* [⁠Ente QR](https://qr.ente.com/) - Generator / Customizable
 * [QArt Coder](https://research.swtch.com/qr/draw/) - Generator / Customizable
 * [QRcodly](https://www.qrcodly.de/) - Generator / Customizable
 * [QRCode Monkey](https://www.qrcode-monkey.com/) - Generator / Customizable
@@ -256,7 +256,7 @@
 * [Marginalia Search](https://marginalia-search.com/) - Text-Based Search Engine / [GitHub](https://github.com/MarginaliaSearch/MarginaliaSearch)
 * [TheOldNet](https://theoldnet.com/) or [Old'aVista](https://www.oldavista.com/) - Oldschool / Retro Site Search Engines
 * [OceanHero](https://oceanhero.today/) - Ocean Protection Search Engine
-* [Ecosia](https://www.ecosia.org/) - Plant Trees via Search / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/) / [Chrome](https://chromewebstore.google.com/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)
+* [Ecosia](https://www.ecosia.org/) - Plant Trees via Search
 * [Presearch](https://presearch.com/) / [GitHub](https://github.com/presearchofficial)
 * [Bing](https://www.bing.com/)
 * [Google](https://google.com/) / [AI Mode](https://google.com/aimode), [2](https://www.google.com/search?udm=50)
@@ -373,6 +373,7 @@
 
 ## ▷ URL Shorteners
 
+* ⭐ **[spoo.me](https://spoo.me/)** - `spoo.me/ZbvUhz` / [Discord](https://spoo.me/discord) / [GitHub](https://github.com/spoo-me/url-shortener)
 * ⭐ **[T.LY](https://t.ly/)** - `t.ly/qqH6`
 * [is.gd](https://www.is.gd/) - `is.gd/9dkISG`
 * [SmartLnks](https://smartlnks.com/) - `smartlnks.com/Vjr0m`
@@ -618,7 +619,7 @@
 # ► Browser Tools
 
 * 🌐 **[Browser Comparisons](https://privacytests.org/)** or [Eylenburg Comparisons](https://eylenburg.github.io/browser_comparison.htm) - Compare Popular Browsers
-* 🌐 **[Desktop Browser List](https://github.com/nerdyslacker/desktop-web-browsers)** - Desktop Browser Index
+* 🌐 **[Desktop Browser List](https://nerdyslacker.github.io/desktop-web-browsers/)** - Desktop Browser Index / [GitHub](https://github.com/nerdyslacker/desktop-web-browsers)
 * ↪️ **[Recommended Browsers](https://fmhy.net/beginners-guide#browsers)**, [2](https://rentry.org/Piracy-BG#browsers) / **[Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_browser_privacy)**
 * ↪️ **[Android Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_browsers)**
 * ⭐ **[BrowserBench](https://browserbench.org/)** or [WPT](https://wpt.fyi) - Browser Benchmark Tests
@@ -865,10 +866,10 @@
 * ↪️ **[Twitter Archiving](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25B7_twitter.2Fx_archiving)**
 * ↪️ **[YouTube Archiving](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media/#wiki_.25B7_youtube_archiving)**
 * ⭐ **[ArchiveBox](https://archivebox.io)** - Self-Hosted Web Archiving / [GitHub](https://github.com/archivebox/archivebox)
-* ⭐ **[MarkSnip](https://github.com/DhruvParikh1/MarkSnip)** or [MarkdownDown](https://markdowndown.vercel.app/) - Download Web Pages as Markdown Files
 * ⭐ **[HTTrack](https://www.httrack.com/)** - Website Downloader / [GitHub](https://github.com/xroche/httrack)
 * ⭐ **[Kiwix](https://get.kiwix.org/en/solutions/applications/download-options/)** / [Library](https://browse.library.kiwix.org/) / [Zim Reader](https://zimit.kiwix.org/) / [Wiki DL Guide](https://practicalbetterments.com/download-all-of-wikipedia-on-your-phone/) / [Subreddit](https://www.reddit.com/r/Kiwix/) / [GitHub](https://github.com/kiwix/) or [DownloadNet (dn)](https://github.com/DO-SAY-GO/dn) - Offline Website Readers
 * ⭐ **[datahoarder-website-to-markdown](https://github.com/passthesh3ll/datahoarder-website-to-markdown)** - Index to Markdown Tool
+* [MarkdownDown](https://markdowndown.vercel.app/) - Download Web Pages as Markdown Files
 * [Tubeup](https://github.com/bibanon/tubeup) - Multi-VOD Service to IA Uploader
 * [Irchiver](https://irchiver.com/) - Automatic Web Browser Screenshots
 * [Monolith](https://github.com/Y2Z/monolith) or [Single File](https://addons.mozilla.org/en-US/firefox/addon/single-file) - Save Webpages as HTML

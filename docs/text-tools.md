@@ -104,7 +104,7 @@
 * [Handy](https://handy.computer/) - Audio Transcription Tool / [Discord](https://discord.gg/WVBeWsNXK4) / [GitHub](https://github.com/cjpais/Handy)
 * [⁠TransPocket](https://transpocket.com/) - Audio Transcription Tool
 * [WhisperX](https://github.com/m-bain/whisperX) - Audio Transcription Tool
-* [Parakeet](https://huggingface.co/spaces/nvidia/parakeet-tdt-0.6b-v2) - Audio Transcription / HuggingFace
+* [Parakeet](https://huggingface.co/spaces/nvidia/parakeet-tdt-0.6b-v2) - Audio Transcription / Hugging Face
 * [SpeechNotes](https://speechnotes.co/) - Speech Recognition Notes App
 * [LilySpeech](https://lilyspeech.com/) - Fast Voice-To-Text Software
 * [VoiceNotebook](https://voicenotebook.com/) - Speech Transcription Notebook
@@ -453,7 +453,8 @@
 * ↪️ **[HTML Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_html)**
 * ⭐ **[Markdown Guide](https://www.markdownguide.org/)** - Guide for Markdown (.md)
 * ⭐ **[generatedata.com](https://generatedata.com/)** - Generate Test Data in Markup Formats
-* [markup.rocks](https://markup.rocks/) - Online Markup Editor
+* [markup.rocks](https://markup.rocks/) - Markup Editor / Web
+* [⁠BBCode Text Editor](https://bbcode.ilma.dev/) - BBCode Editor / Web
 * [Markup Validation Service](https://validator.w3.org/) - Validate Your Markup Language Structure
 * [YAMLine](https://yamline.com/) - Online YAML Tools / Converters
 * [yq](https://mikefarah.gitbook.io/yq/) - Portable YAML Processor / [GitHub](https://github.com/mikefarah/yq)
@@ -601,7 +602,7 @@
 * ⭐ **[FontoGen](https://github.com/SerCeMan/fontogen)** or [⁠Refont](https://refont.ai/) - Custom AI Font Generators
 * ⭐ **[Make WordArt](https://www.makewordart.com/)**, [FlameText](https://www.flamingtext.com/), [MakeText](https://maketext.io/), [TextGiraffe](https://www.textgiraffe.com/), [Text Pro](https://textpro.me/) or [CoolText](https://cooltext.com/) - WordArt Generators / 3D Text
 * [Polona Typo](https://typo.polona.pl/en/) - Generate WordArt from Book, Poster, & Map Letters
-* [Text Color Fader](https://patorjk.com/text-color-fader/) - Rainbow Text Generator
+* [⁠gradient text generator](https://lovewich.neocities.org/widgets/gradient-text), [Text Color Fader](https://patorjk.com/text-color-fader/) or [⁠Colorize FUN](https://colorize.fun/) - Rainbow Text Generator
 * [Fast3DText](https://fast3dtext.com/), [TextDrom](https://en.textdrom.com/), [3DText2GIF](https://3dtext2gif.com/) or [TextStudio](https://www.textstudio.com/) - Animated / 3D Text Generators
 * [Textanim](https://textanim.com/) or [Space Type Generator](https://spacetypegenerator.com/) - Animated Text Generators
 * [Batname](https://batname.vercel.app/) - Batman (2022) Text Generator

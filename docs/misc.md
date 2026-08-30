@@ -19,7 +19,7 @@
 * ⭐ **[EverythingMoe](https://everythingmoe.com/)**, [2](https://everythingmoe.org/) - Otaku Media Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
 * ⭐ **[The Index](https://theindex.moe)** - Japanese Piracy Index / Bookmarking Site / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox)
 * ⭐ **[Dan's Guides](https://rentry.co/danxyz7)** - List of Guides by Dan
-* ⭐ **[Awesome Search](https://awesomelists.top/)** - Awesome List Search
+* ⭐ **[Awesome Search](https://awesomelists.calvinjeng.io/)** - Awesome List Search
 * ⭐ **[Couleur Tweak Tips](https://ctt.cx/)** - Comprehensive Hub of Resources and Tools / [Discord](https://discord.gg/CTT)
 * ⭐ **[r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** - Helpful / Fun Sites
 * [Track Awesome List](https://www.trackawesomelist.com/) - Daily Awesome List Updates
@@ -410,7 +410,7 @@
 * [Flickr Map](https://www.flickr.com/map/) - Flickr Map
 * [r/MapPorn](https://reddit.com/r/MapPorn) - Reddit Map Community
 * [NearbyWiki](https://en.nearbywiki.org/) - Explore Interesting Places Near You
-* [Urbex](https://urbexology.com/), [⁠TrespassersHQ](https://trespassershq.com/) / [Discord](https://discord.gg/trespassers), [⁠DarkUrbex](https://darkurbex.pages.dev/) or [UER](https://www.uer.ca/locations/gmaps/) / [Forum](https://www.uer.ca/forum_showcats.asp) - Urban Exploration / Abandoned Place Maps
+* [Urbex](https://urbexology.com/), [⁠TrespassersHQ](https://trespassershq.com/) / [Discord](https://discord.gg/trespassers) or [UER](https://www.uer.ca/locations/gmaps/) / [Forum](https://www.uer.ca/forum_showcats.asp) - Urban Exploration / Abandoned Place Maps
 * [⁠Arcade Database](https://zenius-i-vanisher.com/v5.2/arcades.php) - Arcade Game Map + Database
 * [Wikimapia](https://wikimapia.org/) - Online Editable Map
 * [Orhyginals Map](http://map.orhyginal.fr/) - Online Editable Map
@@ -510,6 +510,7 @@
 
 ## ▷ Geography Maps
 
+* [⁠Ecoregions](https://ecoregions.appspot.com/) - World Biomes Map
 * [Falling Fruit](https://fallingfruit.org/) - Urban Harvesting Map
 * [⁠Tangram Heightmapper](https://tangrams.github.io/heightmapper) or [Oilslick](https://mrgris.com/projects/oilslick/) - World Terrain Height / Elevation Maps
 * [Global Fishing Watch](https://globalfishingwatch.org/map) - Fishing Activity Map
@@ -706,7 +707,7 @@
 * ⭐ **[Modern HN](https://greasyfork.org/scripts/578540)** / [2](https://www.modernhn.com/) - Modern UI Extension
 * [Hacki](https://github.com/Livinglist/Hacki) or [Harmoni](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews) / [GitHub](https://github.com/SimonHalvdansson/Harmonic-HN) - Android Hacker News Apps
 * [ZCombinator](https://github.com/Livinglist/ZCombinator), [HACK](https://apps.apple.com/app/id1464477788), [Octal](https://apps.apple.com/app/id1308885491), [Hackers](https://apps.apple.com/app/id603503901) or [Hacki](https://apps.apple.com/app/id1602043763) - iOS Hacker News Apps
-* [The Hacker Herald](https://hackerherald.com/), [⁠Brutalist HN](https://brutalisthackernews.com/) or [hckrnws](https://www.hckrnws.com/) - HN Frontends
+* [The Hacker Herald](https://hackerherald.com/), [⁠Brutalist HN](https://brutalisthackernews.com/), [unslop.news](https://www.unslop.news/) or [hckrnws](https://www.hckrnws.com/) - HN Frontends
 * [Alexandria Library](https://alexandria-library.julienc.me/search/) - HN Search Frontend
 * [HNRankings](https://hnrankings.info/) - Best of / Top Posts Aggregator
 * [⁠Hacker Smacker](https://hackersmacker.org/) - Filter / Mark HackerNews Posters
@@ -929,6 +930,7 @@
 
 ## ▷ Job Search / Application
 
+* 🌐 **[⁠CareerPanels](https://www.careerpanels.com/)** - Index of Job Boards 
 * ⭐ **[4-Day Week](https://4dayweek.io/)** - Find Jobs with 4-Day Weeks
 * [OnSites](https://www.onsites.fyi/) - View / Share Interview Experiences
 * [50WaysToGetAJob](https://50waystogetajob.com/) - Interactive Job Search Guide
@@ -1375,6 +1377,7 @@
 * [Framasoft](https://degooglisons-internet.org/en/) - Text / Collaboration
 * [⁠HeyTools](https://heytools.app/) - Text / PDF / Image / Code
 * [10015.io](https://10015.io/) - Text / Image / Code / Colors
+* [⁠ClipZeal](https://clipzeal.com/) - Video / Audio / Image / GIF
 * [ToolBox](https://footrue.com/) - Image / Text / Code / PDF
 * [Private.coffee](https://private.coffee/services.html) - Text / Code
 * [RandomTools](https://randomtools.io/) - Social Media / Text / Image / Code
@@ -1674,7 +1677,6 @@
 * [Touch Pianist](http://touchpianist.com/) - Magical Piano App
 * [A.I. DUET](https://experiments.withgoogle.com/ai/ai-duet/view/) - AI Piano Duet
 * [Pianoverse](https://pianoverse.net/) or [MultiplayerPiano](https://multiplayerpiano.com/) - Multiplayer Piano
-* [Incredibox](https://www.incredibox.com/demo/) - Make Beatboxing Beats
 * [DJ Phonetic](https://djphonetic.brianfoo.com/) - Historical Speech Beatboxing
 * [Viola the Bird](https://artsandculture.google.com/experiment/viola-the-bird/nAEJVwNkp-FnrQ?cp) - Browser Cello
 * [bongo.cat](https://bongo.cat/) - Become Bongo Cat
@@ -1704,6 +1706,7 @@
 * [⁠Tolkien Gateway](https://tolkiengateway.net/) - J.R.R. Tolkien Content Encyclopedia / Wiki
 * [Middle-Earth Map](https://middle-earth-interactive-map.web.app/) - Tolkien's Middle-Earth Map
 * [QuarterMaester](https://quartermaester.info/) - Game of Thrones Map
+* [⁠Confic Wiki](https://www.containmentfiction.net/) - Containment Fiction Wiki
 * [⁠Git City](https://www.thegitcity.com/) - 3D GitHub City / [GitHub](https://github.com/srizzon/git-city)
 * [DamnInteresting](https://www.damninteresting.com/) - Interesting Stories
 * [Unusual Articles](https://wikipedia.org/wiki/Wikipedia:Unusual_articles) - Unusual Wiki Articles
@@ -1778,6 +1781,7 @@
 * [SkylineWebcams](https://www.skylinewebcams.com/en.html)
 * [Webcam Hopper](https://www.webcamhopper.com/)
 * [WorldCam](https://worldcam.eu/)
+* [⁠Tomarigi](https://tomarigi.me/world)
 * [Mangolink World](https://www.mangolinkworld.com/)
 * [Insecam](http://www.insecam.org/en/)
 * [CameraFTP](https://www.cameraftp.com/cameraftp/publish/publishedcameras.aspx)
